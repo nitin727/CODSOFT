@@ -39,7 +39,3 @@ javac StudentGradeCalculator.java
 
 ## 📷 Output Screenshot
 ![Output Screenshot](task2_output.png)
-
-
-
-
