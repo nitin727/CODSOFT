@@ -33,3 +33,6 @@ The program takes marks (out of 100) for multiple subjects, calculates:
 1. Compile the program:
 ```bash
 javac StudentGradeCalculator.java
+
+---
+<img width="865" height="486" alt="task-2 output" src="https://github.com/user-attachments/assets/9e176e5f-c8a4-4ebd-964a-ac881012c59a" />
