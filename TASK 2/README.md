@@ -36,6 +36,6 @@ javac StudentGradeCalculator.java
 ---
 
 ## 📷 Output Screenshot
-![Output Screenshot](https://github.com/nitin727/CODSOFT/blob/bf474d6e9597c3fa3a3a2443dd2c9a155967a017/TASK%202/task2_output.png)
+![Output Screenshot](https://github.com/nitin727/CODSOFT/blob/main/TASK%202/task2_output.png?raw=true)
 
 
